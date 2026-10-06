@@ -59,6 +59,11 @@
   ![Stars](https://img.shields.io/github/stars/eguatech/egua?style=flat-square)
  [![license](https://img.shields.io/github/license/eguatech/egua.svg)](/LICENSE)
 
+- **[FakeForge](https://github.com/everpaula/fakeforge-br)** by [everpaula](https://github.com/everpaula)  
+  REST API and SDKs (Node, Python) to generate valid Brazilian synthetic data (CPF, CNPJ, CEP, PIX, credit cards) for software testing. Free tier of 50 calls/day.  
+  ![Stars](https://img.shields.io/github/stars/everpaula/fakeforge-br?style=flat-square)
+ [![license](https://img.shields.io/github/license/everpaula/fakeforge-br.svg)](/LICENSE)
+
 - **[FunnyAlgorithms](https://github.com/ReciHub/FunnyAlgorithms)** by [Otacilio Maia](https://github.com/OtacilioN)  
   A repository with a bunch of funny algorithms, beginners friendly  
   ![Stars](https://img.shields.io/github/stars/ReciHub/FunnyAlgorithms.svg?style=flat-square)
